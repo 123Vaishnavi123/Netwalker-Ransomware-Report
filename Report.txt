@@ -1,0 +1,114 @@
+•	What is Netwalker Ransomware?
+
+Netwalker ransomware is a Window's specific ransomware that encrypts and exfiltrates all of the data it beaches. After a successful attack, victims are presented with 
+a ransom note demanding a bitcoin payment in exchange for a full decryption of the compromised data.
+
+The secret behind Netwalker's ransom payout success lies in their double-extortion tactic, a strategy also used by the notorious ransomware gang Maze. A sample of the 
+breached sensitive data is instantly published on the dark web as proof of the breach. Victims are presented with this evidence and given an ultimatum to pay the 
+ransom price to avoid further publishing on the criminal infested network.
+
+The cybercriminals group behind the Netwalker ransomware is known as Circus Spider.
+
+•	How Did Netwalker Ransomware Become Popular?
+
+In March 2020, Netwalker ransomware shifted to a Ransomware-as-a-Service model (RaaS). This is an adaptation of the Software-as-a-Service model. Criminal affiliates 
+sign up to launch cyberattacks with the ransomware.SaaS products empower users to execute complex processes, in just about any industry, without coding expertise. 
+LIkewise, RaaS solutions empower even the most novel hackers to execute highly sophisticated ransomware attacks.
+
+Since shifting to an RaaS model, Netwalker expanded its global reach in a very short period of time. Criminal affiliates receive an extravagant percentage of each 
+ransom payment, and with an unlimited earning potential, they're motivated to rapidly spread the ransomware far and wide. But multiplying RaaS affiliates is not the 
+only key to achieving a heinous global reputation. Even though RaaS solutions don't require expert hackers, it does help to be one.
+
+Cybersecurity defenses now consist of complex firewall layers and secure VPNs. To infiltrate these barriers, you cannot solely rely on the RaaS solution. You need 
+additional hacking expertise to tailor breaching solutions for each unique breaching problem. With such an expert network, each affiliate's chances of penetration will be
+high, and with the resulting successful breach streak, the utilized RaaS tool will build upon its rapidly developing reputation.
+
+To recruit these expert affiliates, Circus Spider posted invitations to their affiliate program, alongside a list of essential criteria, in Russian criminal forums on 
+the dark web.Netwalker ransomware affiliates need to:
+
+(a)Be fluent Russian-speaking and Russian-typing hackers
+(b)Have extensive ransomware attack experience
+(c)Have extensive network penetration experience
+(d)Have an extensive list of high profile targets
+(e)Be capable of providing evidence of all their experience.
+
+In a leaked recruitment post, it was discovered that Circus Spider broaden their focus to internet-exposed Remote Desktop Protocols (RDPs) rather than just the 
+ubiquitous spear-phishing attack vector.
+
+To make their offer tantalising, Circus Spider published a list of benefits for successful candidates including:
+
+(a)Unlimited access to autocrypt.exe after the first payout of at least 10 BTK
+(b)Access to a PowerShell (a method of distributing ransomware via an email attachment) after the first payout of at least 10 BTK
+(c)Opportunity to personally work for the ransomware gang on a contractual basis
+(d)Netwalker ransomware affiliates are well looked after. Compared to other RaaS solutions, Netwalker is on the generous end of the spectrum, paying their affiliates 
+up to 80% of each successful ransom payment.
+
+With their army of seasoned threat actors at the ready, Netwalker (also known as mailto) launched their first wave of RaaS attacks in March 2020.The cybercrime network
+worked relentlessly, tipping over business after business, taking advantage of global coronavirus distractions.
+
+•	Netwalker Target:
+
+Netwalker attackers even targeted the healthcare sector, tricking staff into injecting the Malware through Covid-themed phishing emails. These attacks were severe 
+enough to prompt a flash alert by the FBI in July 2020.
+
+Some of Netwalker's notable victims included:
+
+(a)The Crozer-Keystone Health System
+(b)Australian transport company Toll Group
+(c)California University's Covid research sector
+(d)The Austrian city of Weiz
+(e)K-Electric, Pakistan's largest private power utility.
+(f)Argentina's official immigration agency
+
+Besides the health sector, the following industries are also targeted by Netwalker:
+
+(a)Business management solutions
+(b)Customer experience management
+(c)Manufacturing
+(d)Education and battery management
+
+Netwalker spread their net over a digital world that overlooked its security posture amid the pandemic chaos, claiming victims over a majority of the globe in a few 
+short months.
+
+•	How Does Netwalker Ransomware Work?
+
+Netwalker ransomware is most commonly introduced into an ecosystem via phishing emails. These emails appear to come from legitimate sources, so recipients are tricked 
+into click on links and downloading attachments.
+
+In their machiavellian Covid-themes phishing emails, Netwalker attached a visual basic script titled CORONAVIRUS_COVID-19.vbs. When these phishing email scripts are 
+activated, the executable saved in the victim's temp folder and the attack is initiated.
+
+Victims are unaware of anything unusual happening as the Netwalker ransomware infects their systems. This is because the malware operates clandestinity under the guide
+of legitimate Microsoft processes. This is achieved through a technique known as 'process harrowing', where code from Microsoft's executable is replaced with 
+Netwalker's malicious code to access
+
+Netwalker then initiates a mass exfiltration of all the breached sensitive data, The stolen data is also heavily encrypted to prevent victims from getting access to 
+the compromised data.Only when the attack is complete does the victim notice that their system has been compromised. A ransom note left by attackers in a TXT file 
+confirms any suspicions.
+
+After the ransom note has been deployed, a subset of the exfiltrated data is published on the dark web and shown to the victim as proof of the successful breach. This 
+is when the clock starts ticking and victims are pressured to make the ransom payment to avoid further sensitive data being published on the dark web.Victims are 
+instructed to submit their ransom payment via an anonymous communication network, through a TOR browser portal.Victims are provided with a decryption tool for their 
+specific Netwalker variant when a ransom payment is made.
+
+•	Mitigation procedures recommended to defend your business from Netwalker Ransomware are:
+
+A.	Backup all of your data on external hard drives
+B.	Enforce two-factor authentication
+C.	Ensure all software patches are up to date
+D.	Regularly update endpoint passwords
+E.	Monitor your security posture
+F.	Implement a third-party risk management solution
+
+•	Conclusion :
+
+-> It is to be noted that the ransomware groups are becoming increasingly professionalized, outsourcing code development, infrastructure and C2 operations, as well as 
+operating RaaS business models. Many of them are organized enough to respond to media inquiries and operate victim hotlines.
+
+-> As these threat actors continue to evolve, the organizations are required to follow the security best practices to safeguard their critical business data and 
+protect against ransomware attack. It is recommended to have an incident response plan kept in place in case of any such attacks.
+
+
+
+
+
